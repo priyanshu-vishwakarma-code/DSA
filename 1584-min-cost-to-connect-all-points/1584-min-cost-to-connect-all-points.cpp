@@ -12,9 +12,8 @@ public:
 
         pq.push({0,0}); // weight , element
         while(!pq.empty()){
-            auto p = pq.top();
-            int weight = p.first;
-            int node = p.second;
+            int weight = pq.top().first;
+            int node = pq.top().second;
             pq.pop();
 
             if(visited[node]) continue;
