@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -43,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
