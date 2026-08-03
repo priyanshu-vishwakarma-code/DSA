@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
