@@ -21,7 +21,8 @@ public:
 
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int>dp(n, -1);
+        
+        // vector<int>dp(n, -1);
         // return recursion(0, dp, nums);     // the recursive + memoriztaion method
 
         // THE TABULATION METHOD
