@@ -14,20 +14,34 @@ public:
         return dp[i] = min(onestep, twostep);
     }
     int minCostClimbingStairs(vector<int>& cost) {
+        // RECURSION + MEMORIZATION
         // int ans1, ans2;
         // vector<int>dp(cost.size(), -1);
         // ans1 = recursion(0, dp, cost);
         // ans2 = recursion(1, dp, cost);
         // return min(ans1, ans2);
 
+        // TABULATION
+        // int n = cost.size();
+        // if(n == 0) return 0;
+        // if(n == 1) return cost[0];
+        // vector<int>dp(n+1, -1);
+        // dp[0] = 0, dp[1] = 0;
+        // for(int i = 2 ; i<=n ; i++){
+        //     dp[i] = min(dp[i-1]+cost[i-1], dp[i-2]+cost[i-2]);
+        // }
+        // return dp[n];
+
+        // TABULATION + SPACE OPTIMIZATION
         int n = cost.size();
         if(n == 0) return 0;
         if(n == 1) return cost[0];
-        vector<int>dp(n+1, -1);
-        dp[0] = 0, dp[1] = 0;
+        int prevx = 0, prevy = 0, answer;
         for(int i = 2 ; i<=n ; i++){
-            dp[i] = min(dp[i-1]+cost[i-1], dp[i-2]+cost[i-2]);
+            answer = min(prevx + cost[i-2], prevy + cost[i-1]);
+            prevx = prevy;
+            prevy = answer;
         }
-        return dp[n];
+        return answer;
     }
 };
