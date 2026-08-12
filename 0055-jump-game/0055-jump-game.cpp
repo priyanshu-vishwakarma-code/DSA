@@ -8,7 +8,7 @@ public:
 
         int jump = nums[i];
         while(jump > 0){
-            if(recursion(i+jump, dp, nums)) return true;
+            if(recursion(i+jump, dp, nums)) return dp[i] = true;
             jump--;
         }
 
