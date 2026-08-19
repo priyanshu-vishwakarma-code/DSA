@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0509-fibonacci-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -73,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1710-maximum-units-on-a-truck) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
