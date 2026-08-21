@@ -30,7 +30,28 @@ public:
     }
 
     int mincostTickets(vector<int>& days, vector<int>& costs) {
-        vector<int>dp(days.size(), -1);
-        return recursion(0, dp, days, costs);
+        // RECURSION + MEMORIZATION
+        // vector<int>dp(days.size(), -1);
+        // return recursion(0, dp, days, costs);
+
+        // TABULATION
+        int n = days.size();
+        vector<int>dp(n+1, 0);
+        for(int i = 1 ; i<=n ; i++){
+            int pass1, pass2, pass3;
+
+            pass1 = costs[0] + dp[i-1];
+
+            int j = i - 1;
+            while (j >= 0 && days[j] >= days[i - 1] - 6) j--;
+            pass2 = costs[1] + dp[j + 1];
+
+            j = i - 1;
+            while (j >= 0 && days[j] >= days[i - 1] - 29) j--;
+            pass3 = costs[2] + dp[j + 1];
+
+            dp[i] = minimum(pass1, pass2, pass3);
+        }
+        return dp[n];
     }
 };
