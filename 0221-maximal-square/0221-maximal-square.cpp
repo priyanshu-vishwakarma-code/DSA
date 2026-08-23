@@ -15,16 +15,40 @@ public:
     }
 
     int maximalSquare(vector<vector<char>>& mat) {
+        // RECURSION + MEMORIZATION
+        // int m = mat.size() , n = mat[0].size();
+        // vector<vector<int>>dp(m, vector<int>(n,-1));
+        // int maxans = 0;
+        // for(int i = 0 ; i<m ; i++){
+        //     for(int j = 0 ; j<n ; j++){
+        //         if(mat[i][j] == '0') continue;
+        //         int ans = solve(i, j, dp, mat);
+        //         maxans = max(maxans, ans);
+        //     }
+        // }
+        // return maxans * maxans;  
+
+        // TABULATION
         int m = mat.size() , n = mat[0].size();
-        vector<vector<int>>dp(m, vector<int>(n,-1));
+        vector<vector<int>>dp(m, vector<int>(n,0));
         int maxans = 0;
         for(int i = 0 ; i<m ; i++){
-            for(int j = 0 ; j<n ; j++){
+            dp[i][0] = mat[i][0] - '0';
+            maxans = max(maxans, dp[i][0]);
+        } 
+        for(int j = 0 ; j<n ; j++){
+            dp[0][j] = mat[0][j] - '0';
+            maxans = max(maxans, dp[0][j]);
+        } 
+        
+        for(int i = 1 ; i<m ; i++){
+            for(int j = 1 ; j<n ; j++){
                 if(mat[i][j] == '0') continue;
-                int ans = solve(i, j, dp, mat);
-                maxans = max(maxans, ans);
+                int left = dp[i][j-1], top = dp[i-1][j], digonal = dp[i-1][j-1];
+                dp[i][j] = 1 + min(left, min(top, digonal));
+                maxans = max(maxans, dp[i][j]);
             }
         }
-        return maxans * maxans;  
+        return maxans * maxans;
     }
 };
