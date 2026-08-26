@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0983-minimum-cost-for-tickets](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0377-combination-sum-iv) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1710-maximum-units-on-a-truck](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Greedy
 |  |
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0238-product-of-array-except-self) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
