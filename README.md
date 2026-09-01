@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
