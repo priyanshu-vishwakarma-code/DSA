@@ -12,10 +12,25 @@ public:
     }
 
     int maxSatisfaction(vector<int>& satisfaction) {
+        // RECURSION + MEMORIZATION
+        // int n = satisfaction.size();
+        // sort(satisfaction.begin(), satisfaction.end());
+        // vector<vector<int>>dp(n, vector<int>(n+1, -1));
+        // return recursion(0, 1, dp, satisfaction);    
+
+        // TABULATION
         int n = satisfaction.size();
         sort(satisfaction.begin(), satisfaction.end());
-        vector<vector<int>>dp(n, vector<int>(n+1, -1));
-        return recursion(0, 1, dp, satisfaction);    
+        vector<vector<int>>dp(n+1, vector<int>(n+2, 0));
+        for(int curr = n-1 ; curr >= 0 ; curr--){
+            for(int time = 1 ; time<=n ; time++){
+                int include = (satisfaction[curr] * time) + dp[curr+1][time+1];
+                int exclude = dp[curr+1][time];
+                dp[curr][time] = max(include, exclude);
+            }
+        }
+
+        return dp[0][1];
     }
 
 
