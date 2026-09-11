@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0125-valid-palindrome) |
 ## Matrix
 |  |
 | ------- |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
