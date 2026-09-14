@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0509-fibonacci-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0377-combination-sum-iv) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0125-valid-palindrome) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
