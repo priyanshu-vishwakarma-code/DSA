@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0377-combination-sum-iv) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
