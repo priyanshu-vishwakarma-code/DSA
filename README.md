@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0377-combination-sum-iv) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0983-minimum-cost-for-tickets) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Triangulation
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
