@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0054-spiral-matrix) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0221-maximal-square) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0037-sudoku-solver) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0090-subsets-ii) |
@@ -239,5 +243,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
