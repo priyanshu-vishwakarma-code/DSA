@@ -17,7 +17,36 @@ public:
         return ans;
     }
 
+    int solveOptimal(vector<int>& nums){
+        int n = nums.size();
+        if(n == 0) return 0;
+        vector<int>ans;
+        ans.push_back(nums[0]);
+        for(int i = 1 ; i<nums.size() ; i++){
+            if(nums[i] > ans.back()){
+                ans.push_back(nums[i]);
+            }else{
+                int low = 0, high = ans.size()-1;
+                int index = -1;
+                while(low <= high){
+                    int mid = low + ((high - low)/2);
+
+                    if(ans[mid] >= nums[i]){
+                        index = mid;
+                        high = mid-1;
+                    }
+                    else{
+                        low = mid + 1;
+                    }
+                }
+                ans[index] = nums[i];
+            }
+        }
+        return ans.size();
+    }
+
     int lengthOfLIS(vector<int>& nums) {
+        return solveOptimal(nums);
         int n = nums.size();
 
         // RECURSION + MEMORIZATION
