@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0055-jump-game) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
