@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1192-critical-connections-in-a-network) |
+| [2596-check-knight-tour-configuration](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2596-check-knight-tour-configuration](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Graph Theory
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1402-reducing-dishes) |
 | [1710-maximum-units-on-a-truck](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1824-minimum-sideway-jumps](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1824-minimum-sideway-jumps) |
+| [2596-check-knight-tour-configuration](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
