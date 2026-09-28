@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0221-maximal-square) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0131-palindrome-partitioning) |
 | [0443-string-compression](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
