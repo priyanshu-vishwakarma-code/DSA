@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0141-linked-list-cycle) |
 | [0443-string-compression](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -264,6 +266,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
