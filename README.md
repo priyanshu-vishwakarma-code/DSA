@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0377-combination-sum-iv) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0088-merge-sorted-array) |
+| [0354-russian-doll-envelopes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0354-russian-doll-envelopes) |
 | [1402-reducing-dishes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1402-reducing-dishes) |
 | [1710-maximum-units-on-a-truck](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Knapsack Problem
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0354-russian-doll-envelopes) |
 ## Stack
 |  |
 | ------- |
