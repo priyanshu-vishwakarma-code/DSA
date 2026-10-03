@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [2596-check-knight-tour-configuration](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -277,9 +278,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0141-linked-list-cycle) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
