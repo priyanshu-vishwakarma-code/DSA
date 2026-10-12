@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1402-reducing-dishes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1402-reducing-dishes) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1824-minimum-sideway-jumps) |
 ## Depth-First Search
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1402-reducing-dishes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1402-reducing-dishes) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1710-maximum-units-on-a-truck](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1824-minimum-sideway-jumps](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1824-minimum-sideway-jumps) |
 | [2596-check-knight-tour-configuration](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0354-russian-doll-envelopes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0354-russian-doll-envelopes) |
 | [1402-reducing-dishes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1402-reducing-dishes) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1710-maximum-units-on-a-truck](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Knapsack Problem
 |  |
