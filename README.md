@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0377-combination-sum-iv) |
+| [0496-next-greater-element-i](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -292,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
