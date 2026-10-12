@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -299,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
