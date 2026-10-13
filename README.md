@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -302,9 +304,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0155-min-stack) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
