@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0983-minimum-cost-for-tickets](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1388-pizza-with-3n-slices](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1824-minimum-sideway-jumps) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1388-pizza-with-3n-slices](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1388-pizza-with-3n-slices) |
 ## Shortest Path
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1388-pizza-with-3n-slices](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1710-maximum-units-on-a-truck](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0055-jump-game) |
+| [1388-pizza-with-3n-slices](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1402-reducing-dishes) |
 | [1710-maximum-units-on-a-truck](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1824-minimum-sideway-jumps](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1824-minimum-sideway-jumps) |
