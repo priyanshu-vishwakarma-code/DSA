@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -326,8 +327,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
