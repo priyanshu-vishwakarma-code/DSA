@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0567-permutation-in-string) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Monotonic Stack
 |  |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0155-min-stack) |
 ## Range Minimum/Maximum Query
 |  |
