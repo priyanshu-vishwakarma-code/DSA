@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/1192-critical-connections-in-a-network) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0322-coin-change) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -362,4 +364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0416-partition-equal-subset-sum) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
