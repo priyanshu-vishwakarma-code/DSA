@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0198-house-robber) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0146-lru-cache) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/priyanshu-vishwakarma-code/DSA/tree/master/0572-subtree-of-another-tree) |
